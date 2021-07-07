@@ -742,11 +742,11 @@ Extra @Media Query
     margin-left: -240px;
     display: block;
     text-align: center;
-    -webkit-transition: all 0.25s ease-in-out;
-    -moz-transition: all 0.25s ease-in-out;
-    -o-transition: all 0.25s ease-in-out;
-    -ms-transition: all 0.25s ease-in-out;
-    transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;
   }
   .wsmenu>.wsmenu-list>li {
     width: 100%;
@@ -1092,20 +1092,20 @@ Extra @Media Query
     /* height: 54px; */
     background-color: rgba(255, 255, 255, 0.8);
     text-align: right;
-    -webkit-transition: all 0.25s ease-in-out;
-    -moz-transition: all 0.25s ease-in-out;
-    -o-transition: all 0.25s ease-in-out;
-    -ms-transition: all 0.25s ease-in-out;
-    transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;
     box-shadow: 0 0 1px rgba(0, 0, 0, .3);
   }
   .wsactive .wsmobileheader {
     margin-left: 240px;
-    -webkit-transition: all 0.25s ease-in-out;
-    -moz-transition: all 0.25s ease-in-out;
-    -o-transition: all 0.25s ease-in-out;
-    -ms-transition: all 0.25s ease-in-out;
-    transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;
   }
   .wsmobileheader .smllogo {
     display: inline-block;
@@ -1134,7 +1134,7 @@ Extra @Media Query
     position: absolute;
     right: 5px;
     top: 0px;
-    transition: all 0.4s ease-in-out 0s;
+    transition: all 0.5s ease;
     z-index: 102;
     padding: 11px 14px;
   }
@@ -1151,11 +1151,11 @@ Extra @Media Query
     left: 0;
     top: 0;
     z-index: 102;
-    -webkit-transition: all 0.4s ease-in-out;
-    -moz-transition: all 0.4s ease-in-out;
-    -o-transition: all 0.4s ease-in-out;
-    -ms-transition: all 0.4s ease-in-out;
-    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;
   }
   .wsanimated-arrow {
     cursor: pointer;
@@ -1180,7 +1180,7 @@ Extra @Media Query
     width: 46px;
   }
   .wsanimated-arrow span, .wsanimated-arrow span:before, .wsanimated-arrow span:after {
-    transition: all 500ms ease-in-out;
+    transition: all 0.5s ease;
   }
   .wsactive .wsanimated-arrow span:after {
     width: 46px;
@@ -1222,19 +1222,19 @@ Extra @Media Query
     display: block;
   }
   .wsmenucontainer {
-    -webkit-transition: all 0.25s ease-in-out;
-    -moz-transition: all 0.25s ease-in-out;
-    -o-transition: all 0.25s ease-in-out;
-    -ms-transition: all 0.25s ease-in-out;
-    transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition:all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;
   }
   .wsactive .wsmenucontainer {
     margin-left: 240px;
-    -webkit-transition: all 0.25s ease-in-out;
-    -moz-transition: all 0.25s ease-in-out;
-    -o-transition: all 0.25s ease-in-out;
-    -ms-transition: all 0.25s ease-in-out;
-    transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;
   }
   .wsactive .wsmenu {
     overflow-y: scroll;
@@ -1244,11 +1244,11 @@ Extra @Media Query
     top: 0;
   }
   .wsactive .wsmenu>.wsmenu-list {
-    -webkit-transition: all 0.25s ease-in-out;
-    -moz-transition: all 0.25s ease-in-out;
-    -o-transition: all 0.25s ease-in-out;
-    -ms-transition: all 0.25s ease-in-out;
-    transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition:all 0.5s ease;
     margin-left: 0;
   }
   /* ================== Mobile Sub Menu Expander Arrows  ================== */
